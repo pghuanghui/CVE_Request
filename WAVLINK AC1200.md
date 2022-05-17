@@ -20,11 +20,11 @@ WAVLINK AERIAL X 1200M
 
 Under the live_mfg.shtml file, use the exec cmd function to execute the command
 
-![image-20220517164702359](WAVLINK AC1200.assets/1.png)
+![image-20220517164702359](https://github.com/pghuanghui/CVE_Request/raw/main/WAVLINK%20AC1200.assets/1.png)
 
 ## 0x04 PoC verification
 
-![image-20220517171003252](WAVLINK AC1200.assets/2.png)
+![image-20220517171003252](https://github.com/pghuanghui/CVE_Request/raw/main/WAVLINK%20AC1200.assets/2.png)
 
 
 
