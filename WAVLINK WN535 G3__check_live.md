@@ -25,4 +25,5 @@ Under the live_check.shtml file, use the exec cmd function to execute the comman
 ![image-20220523165219605](https://github.com/pghuanghui/CVE_Request/raw/main/WAVLINK%20WN535%20G3__check_live.assets/image-20220523165219605.png)
 
 ##0x05 Acknowledgement
+
 PeiWen.Huang
