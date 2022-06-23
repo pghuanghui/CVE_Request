@@ -29,3 +29,5 @@ Under the live_check.shtml file, use the exec cmd function to execute the comman
 ![image-20220518145313942](https://github.com/pghuanghui/CVE_Request/raw/main/WAVLINK%20AC1200_check_live.assets/image-20220518145313942.png)
 
 In the live_check.shtml interface, it contains various information of the router, such as: firmware version, MAC address, etc., and even information such as the running process of the router.
+## 0x05 Acknowledgement
+Penwei.Huang
