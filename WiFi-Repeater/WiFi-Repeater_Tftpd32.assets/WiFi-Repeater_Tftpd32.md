@@ -1,6 +1,6 @@
 ## 0x01 Vulnerability description
 
-A vulnerability is in the 'tftp.txt' page of the Wavlink-WiFi-Repeater,Firmware package version RPTA2-77W.M4300.01.GD.2017Sep19,By constructing this link, you can get the ftp configuration file.
+A vulnerability is in the 'Tftpd32.ini' page of the Wavlink-WiFi-Repeater,Firmware package version RPTA2-77W.M4300.01.GD.2017Sep19,By constructing this link, you can get the ftp configuration file.
 
 Unauthorized users can obtain the key information of the router by visiting: 
 
